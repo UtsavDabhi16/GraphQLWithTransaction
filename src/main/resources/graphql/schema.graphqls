@@ -1,0 +1,39 @@
+type Query{
+    getAllFlightTickets : [FlightBookingRequest]
+    getAllPassengerInfo : [PassengerInfo]
+    getAllPaymentInfo : [PaymentInfo]
+
+}
+
+type FlightBookingRequest {
+    passengerInfo: PassengerInfo
+    paymentInfo :  PaymentInfo
+}
+
+scalar Date
+scalar DateTime
+scalar LocalTime
+scalar email
+
+type PassengerInfo {
+      pId : ID !
+      name : String
+      email : email
+      source : String
+      destination : String
+      travelDate :  Date
+      pickupTime :String
+      arrivalTime : String
+      fare : Float
+}
+
+type PaymentInfo {
+     paymentId : String
+     accountNo : String
+     amount    : Float
+     cardType  : String
+     passengerId : Int
+}
+
+
+
