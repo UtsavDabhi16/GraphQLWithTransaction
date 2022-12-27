@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d889590-4968-45ef-8071-d08167a10ac3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/FlightServiceExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/FlightServiceExampleApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/dto/FlightBookingAcknowledgement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/dto/FlightBookingAcknowledgement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/dto/FlightBookingRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/dto/FlightBookingRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/entity/PassengerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/entity/PassengerInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/entity/PaymentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/entity/PaymentInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/exception/InsufficientAmountException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/exception/InsufficientAmountException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/repository/PassengerInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/repository/PassengerInfoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/repository/PaymentInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/repository/PaymentInfoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/service/FlightBookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/service/FlightBookingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatechie/tx/utils/PaymentUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/utils/PaymentUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/javatechie/tx/FlightServiceExampleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/inexture/graphql/FlightServiceExampleApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/service/FlightBookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inexture/graphql/service/FlightBookingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +136,7 @@
       <workItem from="1671627495502" duration="2018000" />
       <workItem from="1671638683710" duration="5769000" />
       <workItem from="1671685397613" duration="39866000" />
+      <workItem from="1672119598055" duration="2481000" />
     </task>
     <servers />
   </component>

@@ -53,7 +53,6 @@ public class FlightBookingService {
 
     }
 
-
     public List<PassengerInfo> getAllPassengerInfo()  {
         return passengerInfoRepository.findAll();
     }
